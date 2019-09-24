@@ -1,0 +1,11 @@
+C:\Users\VinuthaBS\source\repos\Simplepro1\Simplepro1\bin\Release\netcoreapp2.1\Simplepro1.deps.json
+C:\Users\VinuthaBS\source\repos\Simplepro1\Simplepro1\bin\Release\netcoreapp2.1\Simplepro1.runtimeconfig.json
+C:\Users\VinuthaBS\source\repos\Simplepro1\Simplepro1\bin\Release\netcoreapp2.1\Simplepro1.runtimeconfig.dev.json
+C:\Users\VinuthaBS\source\repos\Simplepro1\Simplepro1\bin\Release\netcoreapp2.1\Simplepro1.dll
+C:\Users\VinuthaBS\source\repos\Simplepro1\Simplepro1\bin\Release\netcoreapp2.1\Simplepro1.pdb
+C:\Users\VinuthaBS\source\repos\Simplepro1\Simplepro1\obj\Release\netcoreapp2.1\Simplepro1.csprojAssemblyReference.cache
+C:\Users\VinuthaBS\source\repos\Simplepro1\Simplepro1\obj\Release\netcoreapp2.1\Simplepro1.csproj.CoreCompileInputs.cache
+C:\Users\VinuthaBS\source\repos\Simplepro1\Simplepro1\obj\Release\netcoreapp2.1\Simplepro1.AssemblyInfoInputs.cache
+C:\Users\VinuthaBS\source\repos\Simplepro1\Simplepro1\obj\Release\netcoreapp2.1\Simplepro1.AssemblyInfo.cs
+C:\Users\VinuthaBS\source\repos\Simplepro1\Simplepro1\obj\Release\netcoreapp2.1\Simplepro1.dll
+C:\Users\VinuthaBS\source\repos\Simplepro1\Simplepro1\obj\Release\netcoreapp2.1\Simplepro1.pdb

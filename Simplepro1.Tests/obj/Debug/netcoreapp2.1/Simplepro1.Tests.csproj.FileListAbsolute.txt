@@ -1,0 +1,17 @@
+C:\Users\VinuthaBS\source\repos\Simplepro1\Simplepro1.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\VinuthaBS\source\repos\Simplepro1\Simplepro1.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\VinuthaBS\source\repos\Simplepro1\Simplepro1.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\VinuthaBS\source\repos\Simplepro1\Simplepro1.Tests\bin\Debug\netcoreapp2.1\Simplepro1.Tests.deps.json
+C:\Users\VinuthaBS\source\repos\Simplepro1\Simplepro1.Tests\bin\Debug\netcoreapp2.1\Simplepro1.Tests.runtimeconfig.json
+C:\Users\VinuthaBS\source\repos\Simplepro1\Simplepro1.Tests\bin\Debug\netcoreapp2.1\Simplepro1.Tests.runtimeconfig.dev.json
+C:\Users\VinuthaBS\source\repos\Simplepro1\Simplepro1.Tests\bin\Debug\netcoreapp2.1\Simplepro1.Tests.dll
+C:\Users\VinuthaBS\source\repos\Simplepro1\Simplepro1.Tests\bin\Debug\netcoreapp2.1\Simplepro1.Tests.pdb
+C:\Users\VinuthaBS\source\repos\Simplepro1\Simplepro1.Tests\bin\Debug\netcoreapp2.1\Simplepro1.dll
+C:\Users\VinuthaBS\source\repos\Simplepro1\Simplepro1.Tests\bin\Debug\netcoreapp2.1\Simplepro1.pdb
+C:\Users\VinuthaBS\source\repos\Simplepro1\Simplepro1.Tests\obj\Debug\netcoreapp2.1\Simplepro1.Tests.csprojAssemblyReference.cache
+C:\Users\VinuthaBS\source\repos\Simplepro1\Simplepro1.Tests\obj\Debug\netcoreapp2.1\Simplepro1.Tests.csproj.CoreCompileInputs.cache
+C:\Users\VinuthaBS\source\repos\Simplepro1\Simplepro1.Tests\obj\Debug\netcoreapp2.1\Simplepro1.Tests.AssemblyInfoInputs.cache
+C:\Users\VinuthaBS\source\repos\Simplepro1\Simplepro1.Tests\obj\Debug\netcoreapp2.1\Simplepro1.Tests.AssemblyInfo.cs
+C:\Users\VinuthaBS\source\repos\Simplepro1\Simplepro1.Tests\obj\Debug\netcoreapp2.1\Simplepro1.Tests.csproj.CopyComplete
+C:\Users\VinuthaBS\source\repos\Simplepro1\Simplepro1.Tests\obj\Debug\netcoreapp2.1\Simplepro1.Tests.dll
+C:\Users\VinuthaBS\source\repos\Simplepro1\Simplepro1.Tests\obj\Debug\netcoreapp2.1\Simplepro1.Tests.pdb
