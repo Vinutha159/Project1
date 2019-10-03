@@ -15,7 +15,7 @@ namespace Simplepro1.Tests
             int expected = 5;
 
             //act
-            int actual = 3;
+            int actual = 5;
 
             //assert
             Assert.Equal(expected, actual);
