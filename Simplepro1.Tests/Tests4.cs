@@ -12,10 +12,10 @@ namespace Simplepro1.Tests
         public void Add_numvalues()
         {
             //arrange
-            int expected = 10;
+            int expected = 15;
 
             //act
-            int actual = 10;
+            int actual = 15;
 
             //assert
             Assert.Equal(expected, actual);
